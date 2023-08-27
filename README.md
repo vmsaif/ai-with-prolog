@@ -1,5 +1,7 @@
 # AI with Prolog
 
+[![Hits](https://hits.sh/github.com/vmsaif/ai-with-prolog.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/ai-with-prolog/)
+
 This repository contains a collection of Prolog programs written by Saif Mahmud. Below is a brief description of each program and its functionality.
 
 ## Requirements
